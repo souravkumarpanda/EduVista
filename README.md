@@ -1,2 +1,16 @@
 # EduVista
 It's a dynamic e-learning platform by using MERN Stack.
+![Screenshot 2024-11-11 190019](https://github.com/user-attachments/assets/feb67014-1a0f-4a33-b229-afa60ac2ae53)
+![Screenshot 2024-11-11 190034](https://github.com/user-attachments/assets/34686bdf-3428-4f02-8aca-96acc1cde808)
+![Screenshot 2024-11-11 190047](https://github.com/user-attachments/assets/322894f2-ce44-4125-8415-1e0bf41459ae)
+![Screenshot 2024-11-11 190059](https://github.com/user-attachments/assets/acb42ab8-2038-4e7c-9040-b9b6ffb6db06)
+![Screenshot 2024-11-11 190112](https://github.com/user-attachments/assets/acf7161a-c64b-47be-8ed9-977aedf49af8)
+![Screenshot 2024-11-11 190136](https://github.com/user-attachments/assets/3dc05f4b-64a6-4a1d-a7cf-8f868a3cba26)
+![Screenshot 2024-11-11 190517](https://github.com/user-attachments/assets/a3063593-f381-4290-bf78-3b40979fc82d)
+![Screenshot 2024-11-11 190550](https://github.com/user-attachments/assets/cf524b89-0956-4eb7-b69e-8e7ce1135285)
+![Screenshot 2024-11-11 190607](https://github.com/user-attachments/assets/c120db03-a92d-4dbf-b941-2ddfa3d0bce7)
+![Screenshot 2024-11-11 190625](https://github.com/user-attachments/assets/e072c8c2-dd8c-40f6-a8f6-6d06ac3363f0)
+![Screenshot 2024-11-11 191528](https://github.com/user-attachments/assets/aab2f5b0-f4bf-4691-8e2c-3574ce15997a)
+![Screenshot 2024-11-11 191548](https://github.com/user-attachments/assets/2f821f05-f3f4-4084-a31a-ebdc5911d236)
+![Screenshot 2024-11-13 073701](https://github.com/user-attachments/assets/71413cc5-ee96-4118-8db1-08f8186c8bf3)
+![Screenshot 2024-11-13 073900](https://github.com/user-attachments/assets/3abf9f80-7f7f-4be6-8b91-c886622a8962)
